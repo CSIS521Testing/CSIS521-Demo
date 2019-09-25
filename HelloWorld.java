@@ -4,5 +4,6 @@ public class HelloWorld {
 	      System.out.println("Hello World! 2 commit");
         System.out.println("3 commit!");
         System.out.println("This is a conflict!");
+        System.out.println("added branch 1!");
 	   }
 }
